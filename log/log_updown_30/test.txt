@@ -1,0 +1,11 @@
+Bleu_1: 0.761
+Bleu_2: 0.598
+Bleu_3: 0.459
+Bleu_4: 0.350
+computing METEOR score...
+METEOR: 0.272
+computing Rouge score...
+ROUGE_L: 0.562
+computing CIDEr score...
+CIDEr: 1.107
+SPICE: 0.203
